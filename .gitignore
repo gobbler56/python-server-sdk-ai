@@ -75,3 +75,4 @@ test-packaging-venv
 # uv — lock file is not committed for libraries (only for applications)
 uv.lock
 .venv/
+.env
